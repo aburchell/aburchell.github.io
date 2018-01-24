@@ -5,7 +5,10 @@ date: 2018-01-24
 categories: entry
 ---
 ## The Word
-derogate
+>derogate
+
+
 *** 
+
 ## Where encountered?
-Essay about the liberal arts by Hunter Rawlings III
+>Essay about the liberal arts by Hunter Rawlings III
