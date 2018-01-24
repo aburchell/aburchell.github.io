@@ -1,8 +1,11 @@
 ---
 layout: post
-title: "First Word"
+title: "Derogate"
 date: 2018-01-24
 categories: entry
 ---
+>The Word
+derogate
 
-Test test
+>>Where encountered?
+Essay about the liberal arts by Hunter Rawlings III
