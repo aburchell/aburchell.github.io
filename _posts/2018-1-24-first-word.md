@@ -4,7 +4,7 @@ title: "Derogate"
 date: 2018-01-24
 categories: entry
 ---
-# The Word
+## The Word
 derogate
 
 ## Where encountered?
