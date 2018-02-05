@@ -2,18 +2,19 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-nav ul, footer ul {
+footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li {
-    display: inline;
+    display: block;
     margin-right: 20px;
 }
 
 nav ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -23,10 +24,11 @@ nav ul {
     position: fixed; /* Make it stick, even on scroll */
     overflow: auto; /* Enable scrolling if the sidenav has too much content */
 }
+/*
 nav ul a {
     display: block;
 }
-
+*/
 a {
     text-decoration: none;
     color: #999;
