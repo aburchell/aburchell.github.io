@@ -10,6 +10,7 @@ footer ul {
 }
 nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    display:block;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -18,8 +19,8 @@ nav ul {
     height: 100%; /* Full height */
     position: fixed; /* Make it stick, even on scroll */
     overflow: auto; /* Enable scrolling if the sidenav has too much content */
-}
-nav ul li, footer ul li {
+} /* nav ul li, */
+footer ul li {
     display: block;
     margin-right: 20px;
 }
