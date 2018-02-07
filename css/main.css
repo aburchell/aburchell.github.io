@@ -13,17 +13,17 @@ nav ul {
     display:block;
     list-style-type: none;
     line-height: 2em;
-    margin-left: -10%;
+    margin-left: -7%;
     padding: 0;
     width: 20%;
     background-color: #FC9E4F;
     height: 100%; /* Full height */
-    position: sticky; /* Make it stick, even on scroll */
+    position: fixed; /* Make it stick, even on scroll */
     overflow: auto; /* Enable scrolling if the sidenav has too much content */
 } 
 nav ul li {
     display: block;
-    font-size: 1em;
+    font-size: 2em;
     font-family: 'Helvetica'
 }
 footer ul li {
