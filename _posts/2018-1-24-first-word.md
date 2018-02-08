@@ -10,7 +10,9 @@ categories: entry
 > ## The Word
 >> derogate
 
-*** 
-
 > ## Where encountered?
 >> Essay about the liberal arts by Hunter Rawlings III
+
+> ## The Meaning
+>> *verb* 
+>> detract from
