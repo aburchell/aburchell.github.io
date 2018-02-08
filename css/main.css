@@ -13,10 +13,10 @@ nav ul {
     display:block;
     list-style-type: none;
     line-height: 2em;
-    margin-left: -5%;
+    margin-left: -10%;
     padding: 0;
     width: 20%;
-    background-color: #FC9E4F;
+    /*background-color: #FC9E4F;*/
     height: 100%; /* Full height */
     position: fixed; /* Make it stick, even on scroll */
     overflow: auto; /* Enable scrolling if the sidenav has too much content */
@@ -25,7 +25,7 @@ nav ul li {
     display: block;
     font-size: 1.5em;
     font-family: 'Helvetica';
-    margin-left: 8%;
+    /*margin-left: 8%;*/
 }
 footer ul li {
     display: block;
