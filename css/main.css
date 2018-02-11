@@ -67,8 +67,7 @@ ul.posts li {
 }
 #myHead {
     position: fixed;
-    top: 0px;
-    left: 0px;
-    margin: 0px;
+    margin-left: -17%;
+    margin-top: -17%
     padding: 0px;
 }
