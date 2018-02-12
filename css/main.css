@@ -65,9 +65,11 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-#myHead {
+#myName {
     position: fixed;
-    margin-left: -17%;
-    margin-top: -17%
+    top: 0px;
+    left: 0px;
+    /*margin-left: -17%;
+    margin-top: -17% */
     padding: 0px;
 }
