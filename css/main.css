@@ -81,7 +81,7 @@ ul.posts li {
   left: 50%;
   transform: translate(-50%, -50%);
   font-family: monospace, 'Courier New';
-  font-size: 5.0rem;
+  /*font-size: 5.0rem;*/
   font-weight: bold;
 }
 #leftBlank:after {
