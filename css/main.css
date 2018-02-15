@@ -84,7 +84,7 @@ ul.posts li {
   /*font-size: 5.0rem;*/
   font-weight: bold;
 }
-#leftBlank:after {
+#leftBlank::after {
   content: "";
   display: inline-block;
   width: 100%;
