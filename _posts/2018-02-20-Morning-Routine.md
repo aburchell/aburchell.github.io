@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: "Morning Routine"
+date: 2018-02-20
+categories: works
+---
 
 AH!-brupt jolt into consciousness. Subconscious-worn, somehow once-not-awful tune played form the same source at the same time every morning. Let’s try again in twenty. 
 
