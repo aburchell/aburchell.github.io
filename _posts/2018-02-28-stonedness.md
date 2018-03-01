@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stonedness"
-date: 2018-01-24
+date: 2018-02-28
 categories: entry
 ---
 ## The Word
