@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “dirigible"
+title: dirigible
 date: 2018-03-14
 categories: entry
 ---
