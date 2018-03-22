@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “crocussed"
+title: crocussed
 date: 2018-03-14
 categories: entry
 ---
