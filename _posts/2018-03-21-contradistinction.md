@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “contradistinction"
+title: contradistinction
 date: 2018-03-21
 categories: entry
 ---
