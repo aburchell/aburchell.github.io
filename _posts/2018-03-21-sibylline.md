@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “sibylline"
+title: sibylline
 date: 2018-03-21
 categories: entry
 ---
