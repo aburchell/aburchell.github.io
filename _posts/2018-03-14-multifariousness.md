@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “multifariousness"
+title: multifariousness
 date: 2018-03-14
 categories: entry
 ---
