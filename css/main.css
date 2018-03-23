@@ -8,7 +8,7 @@ body {
     max-height: 80%;
     overflow: auto;
     position: fixed;
-    top: 25%;
+    top: -25%;
 }
 footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
