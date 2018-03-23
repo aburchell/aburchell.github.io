@@ -25,6 +25,7 @@ nav ul {
     /*background-color: #FC9E4F;*/
     height: 100%; /* Full height */
     position: fixed; /* Make it stick, even on scroll */
+    top: 25%;
     overflow: auto; /* Enable scrolling if the sidenav has too much content */
 } 
 nav ul li {
