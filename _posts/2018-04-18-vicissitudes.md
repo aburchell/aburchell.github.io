@@ -10,6 +10,11 @@ Vicissitudes
 ## Where encountered
 This was again found in I Am a Strange Loop, in the sentence “I told all sorts of tales about the book and its vicissitudes.” 
 
-## Meaning
+## Meaning Guess
+I initially guessed that this word meant something along the lines of "truths," or perhaps "secrets."
 
-A vicissitude is “a change of circumstances or fortune, typically one that is unwelcome or unpleasant.” The word is of latin origin, from the Latin word “vicissitudo.”
+## Meaning and Morphology
+
+A vicissitude is “a change of circumstances or fortune, typically one that is unwelcome or unpleasant.” The word 
+is of Latin origin, from the Latin word “vicissitudo.” The only difference from this word is the change in the
+word-final vowel, dropping the /o/.
