@@ -87,7 +87,7 @@ ul.posts li {
 #leftBlank {
   position: fixed;
   top: 50%;
-  left: 50%;
+  left: 66%;
   transform: translate(-50%, -50%);
   font-family: monospace, 'Courier New';
   /*font-size: 5.0rem;*/
