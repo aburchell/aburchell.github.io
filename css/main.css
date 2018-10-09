@@ -66,7 +66,7 @@ footer {
     background-color: #efefef;
     text-align: center;
 }
-}
+
 
 ul.posts { 
     margin: 20px auto 40px; 
@@ -82,7 +82,7 @@ ul.posts li {
     left: 0px;
     margin-left: 2%;
     margin-top: 5%;
-    padding: 0px;
+    padding: 10px;
 }
 #leftBlank {
   position: fixed;
@@ -90,7 +90,7 @@ ul.posts li {
   left: 66%;
   transform: translate(-50%, -50%);
   font-family: monospace, 'Courier New';
-  /*font-size: 5.0rem;*/
+  font-size: 20%;/*5.0rem;*/
   font-weight: bold;
 }
 #leftBlank::after {
