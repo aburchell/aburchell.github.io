@@ -50,6 +50,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    position: sticky;
 }
 p {
     font-size: 1.5em;
@@ -85,9 +86,9 @@ ul.posts li {
     padding: 10px;
 }
 #leftBlank {
-  position: fixed;
+  position: absolute;
   top: 50%;
-  left: 66%;
+  left: 50%;
   /*transform: translate(-50%, -50%);*/
   font-family: monospace, 'Courier New';
   font-size: 2.0rem;
