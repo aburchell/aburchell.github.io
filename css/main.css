@@ -92,6 +92,7 @@ ul.posts li {
   font-family: monospace, 'Courier New';
   font-size: 3.0rem;
   font-weight: bold;
+  white-space: nowrap;
 }
 #leftBlank::after {
   content: "";
