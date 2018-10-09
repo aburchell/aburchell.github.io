@@ -87,9 +87,11 @@ ul.posts li {
     padding: 10px;
 }
 #leftBlank {
+  width: 100px;
   position: absolute;
   top: 50%;
   left: 50%;
+  margin-left: 50px;
   /*transform: translate(-50%, -50%);*/
   font-family: monospace, 'Courier New';
   font-size: 2.0rem;
