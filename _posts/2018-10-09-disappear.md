@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "To disappear"
+title: "To Disappear"
 date: 2018-10-09
 categories: works
 ---
@@ -22,11 +22,11 @@ and the next is not.
 
 Not a lot but not squat I have the thought
 
-<br><\br>
+<br>
 
 What if I were not.
 
-<br><\br>
+<br>
 
 What if I let
 
@@ -41,11 +41,11 @@ and right on out
 
 to the rest of the world.
 
-<br><\br>
+<br>
 
 Let something someone else make that bold intrusion.
 
-<br><\br>
+<br>
 
 I'm not picky though, about my request.
 
@@ -77,6 +77,6 @@ no one would be able to see me at all and
 
 I would disappear.
 
-<br><\br>
+<br>
 
 That seems alright to me.
