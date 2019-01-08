@@ -25,6 +25,7 @@ html, body {
 
 .main-nav {
     grid-area: nav;
+    position: sticky;
 }
 
 .page-header {
@@ -45,6 +46,7 @@ html, body {
     background-color: cadetblue;
     position: fixed;
     bottom: 0;
+    width: 100%;
 }
 
 .wrapper {
