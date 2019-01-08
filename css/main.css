@@ -35,11 +35,11 @@ html, body {
     grid-area: content;
     overflow: scroll;
 }
-/*
+
 .container>div {
     overflow: scroll;
 }
-*/
+
 .main-footer {
     grid-area: footer;
     background-color: cadetblue;
