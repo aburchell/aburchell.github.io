@@ -13,20 +13,15 @@ body {
 html, body {
     height: 100%;
     width: 100%;
-    position: absolute;
-    overflow: hidden;
-    margin: 0;
 }
 
 .main-header {
     grid-area: header;
-    position: fixed;
     background-color: darkslategray;
 }
 
 .main-nav {
     grid-area: nav;
-    position: fixed;
     background-color: darkgray;
 }
 
@@ -37,7 +32,6 @@ html, body {
 
 .container{
     grid-area: content;
-    overflow: scroll;
     background-color: aquamarine;
 }
 /*
@@ -50,9 +44,7 @@ html, body {
 .main-footer {
     grid-area: footer;
     background-color: cadetblue;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+   
 }
 
 .wrapper {
@@ -82,6 +74,32 @@ html, body {
             "footer footer footer footer"
     }
     
+    html, body {
+        position: absolute;
+        overflow: hidden;
+        margin: 0;
+    }
+    
+    .main-header {
+        position: fixed;
+    }
+    
+    .main-nav {
+        position: fixed;
+    }
+    
+    .page-header {
+       position: fixed;
+    }
+    
+    .container {
+        overflow: scroll;
+    }
+    .main-footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
 }
 
 
