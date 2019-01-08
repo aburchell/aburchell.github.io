@@ -12,10 +12,12 @@ body {
 
 .main-header {
     grid-area: header;
+    position: absolute;
 }
 
 .main-nav {
     grid-area: nav;
+    position: absolute;
 }
 
 .page-header {
