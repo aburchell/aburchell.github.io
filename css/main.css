@@ -85,11 +85,11 @@ html, body {
     }
     
     .main-nav {
-        position: fixed;
+        position: sticky;
     }
     
     .page-header {
-       position: fixed;
+       position: sticky;
     }
     
     .container {
