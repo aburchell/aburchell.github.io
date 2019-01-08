@@ -13,35 +13,33 @@ body {
 body {
     height: 100%;
     width: 100%;
+    position: absolute;
 }
 
 .main-header {
     grid-area: header;
     position: absolute;
-    overflow: hidden;
 }
 
 .main-nav {
     grid-area: nav;
-    overflow: hidden;
 }
 
 .page-header {
     grid-area: pageHead;
-    overflow: hidden;
 }
 
 .container{
     grid-area: content;
     overflow: scroll;
 }
+/*
 .container>div {
     overflow: scroll;
 }
-
+*/
 .main-footer {
     grid-area: footer;
-    overflow: hidden;
     background-color: cadetblue;
 }
 
