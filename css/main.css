@@ -42,7 +42,7 @@ body {
 .main-footer {
     grid-area: footer;
     overflow: hidden;
-    color: cadetblue;
+    background-color: cadetblue;
 }
 
 .wrapper {
