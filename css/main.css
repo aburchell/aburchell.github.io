@@ -21,24 +21,29 @@ html, body {
 .main-header {
     grid-area: header;
     position: fixed;
+    background-color: darkslategray;
 }
 
 .main-nav {
     grid-area: nav;
     position: fixed;
+    background-color: darkgray;
 }
 
 .page-header {
     grid-area: pageHead;
+    background-color: lightslategrey;
 }
 
 .container{
     grid-area: content;
     overflow: scroll;
+    background-color: aquamarine;
 }
 
 .container>div {
     overflow: scroll;
+    background-color: crimson;
 }
 
 .main-footer {
