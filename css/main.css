@@ -13,32 +13,26 @@ body {
 .main-header {
     grid-area: header;
     position: absolute;
-    max-height: 100%;
 }
 
 .main-nav {
     grid-area: nav;
-    max-height: 100%;
 }
 
 .page-header {
     grid-area: pageHead;
-    max-height: 100%;
 }
 
 .container{
     grid-area: content;
-    max-height: 100%;
     overflow: scroll;
 }
 .container>div {
     overflow: scroll;
-    max-height: 100%;
 }
 
 .main-footer {
     grid-area: footer;
-    max-height: 100%;
 }
 
 .wrapper {
