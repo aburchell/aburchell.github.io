@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
 }*/ 
+
+/*
 body {
     margin: 30%;
     width: 66%;
@@ -10,6 +12,53 @@ body {
     overflow-x: hidden;
     top: -25%;
 }
+*/
+/*https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout*/
+
+.main-header {
+    grid-area: header;
+}
+
+.main-nav {
+    grid-area: nav;
+}
+
+.page-header {
+    grid-area: pageHead;
+}
+
+.container{
+    grid-area: content;
+}
+
+.main-footer {
+    grid-area: footer;
+}
+
+.wrapper {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-areas: 
+        "header"
+        "nav"
+        "pageHead"
+        "content"
+        "footer";
+}
+
+@media (min-width: 500px) {
+    .wrapper {
+        grid-template-columns: 1fr 2fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+        grid-template-areas: 
+            "header . . ."
+            "nav pageHead . ."
+            "nav content content ."
+            ". content content ."
+            "footer footer footer footer"
+    }
+}
+
 footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -58,6 +107,7 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+/*
 footer {
     border-top: 1px solid #d5d5d5;
     position: fixed;
@@ -68,7 +118,7 @@ footer {
     background-color: #efefef;
     text-align: center;
 }
-
+*/
 
 ul.posts { 
     margin: 20px auto 40px; 
@@ -88,7 +138,7 @@ ul.posts li {
 }
 #leftBlank {
   /*width: 100px;*/
-  position: absolute;
+/*  position: absolute;*/
   top: 50%;
   left: 66%;
   /*margin-right: 50px;*/
