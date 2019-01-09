@@ -52,7 +52,7 @@ html, body {
 .main-footer {
     grid-area: footer;
     background-color: cadetblue;
-    align-self: center;
+    text-align: center;
 }
 
 .wrapper {
