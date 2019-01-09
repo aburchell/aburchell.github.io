@@ -18,8 +18,8 @@ html, body {
 .main-header {
     grid-area: header;
     background-color: darkslategray;
-    margin-left: 2%;
-    margin-top: 5%;
+/*    margin-left: 2%;*/
+/*    margin-top: 5%;*/
     padding: 10px;
     align-self: center;
 }
