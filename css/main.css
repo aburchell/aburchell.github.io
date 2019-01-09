@@ -104,6 +104,7 @@ body {
     .container>div {
         overflow: scroll;
         background-color: crimson;
+        border: 10px solid black;
     }
 }
 
