@@ -83,7 +83,7 @@ html, body {
     }
     
     html, body {
-        position: absolute;
+/*        position: absolute;*/
         overflow: hidden;
         margin: 0;
     }
