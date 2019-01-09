@@ -42,12 +42,6 @@ body {
     background-color: aquamarine;
 /*    align-self: stretch;*/
 }
-/*
-.container>div {
-    overflow: scroll;
-    background-color: crimson;
-}
-*/
 
 .main-footer {
     grid-area: footer;
@@ -106,6 +100,10 @@ body {
     .container {
         overflow: scroll;
         bottom: 50px;
+    }
+    .container>div {
+        overflow: scroll;
+        background-color: crimson;
     }
 }
 
