@@ -34,6 +34,7 @@ body {
 .page-header {
     grid-area: pageHead;
     background-color: lightslategrey;
+    width: 100%;
 /*    align-self: flex-start;*/
 }
 
@@ -91,8 +92,9 @@ body {
         position: fixed;
     }
     
-    .page-header {
-       position: sticky;
+    .page-header>div {
+       position: fixed;
+       width: 100%;
     }
     
     .container {
