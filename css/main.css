@@ -73,7 +73,7 @@ html, body {
         min-height: 100%;
         overflow: scroll;
         grid-template-columns: 1fr 2fr 1fr 1fr;
-        grid-template-rows: 50px 50px 50px auto 50px;
+        grid-template-rows: 50px 100px 150px auto 50px;
         grid-template-areas: 
             "header . . ."
             "nav pageHead . ."
