@@ -18,6 +18,9 @@ html, body {
 .main-header {
     grid-area: header;
     background-color: darkslategray;
+    margin-left: 2%;
+    margin-top: 5%;
+    padding: 10px;
 }
 
 .main-nav {
@@ -109,4 +112,18 @@ footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+}
+
+#leftBlank {
+  font-family: monospace, 'Courier New';
+  font-size: 2.0rem;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+nav ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    display:block;
+    list-style-type: none;
+    line-height: 5em;
 }
