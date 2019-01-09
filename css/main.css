@@ -89,7 +89,7 @@ body {
         position: fixed;
     }
     
-    .main-nav {
+    .main-nav>div {
         position: fixed;
     }
     
