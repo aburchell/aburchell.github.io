@@ -10,7 +10,7 @@ body {
 */
 /*https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout*/
 
-html, body {
+body {
     height: 100%;
     width: 100%;
 /*    position: relative;*/
@@ -22,25 +22,25 @@ html, body {
 /*    margin-left: 2%;*/
 /*    margin-top: 5%;*/
     padding: 10px;
-    align-self: center;
+/*    align-self: center;*/
 }
 
 .main-nav {
     grid-area: nav;
     background-color: darkgray;
-    align-self: flex-end;
+/*    align-self: flex-end;*/
 }
 
 .page-header {
     grid-area: pageHead;
     background-color: lightslategrey;
-    align-self: flex-start;
+/*    align-self: flex-start;*/
 }
 
 .container{
     grid-area: content;
     background-color: aquamarine;
-    align-self: stretch;
+/*    align-self: stretch;*/
 }
 /*
 .container>div {
