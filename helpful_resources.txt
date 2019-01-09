@@ -12,3 +12,9 @@ http://phrogz.net/css/htmlvsbody.html
 	appear to show content in <body> that does not fit within the view
 	of the open window
 
+How to get, eg the nav bar and name header, to stay in fixed position
+without fucking up the grid layout
+https://github.com/rachelandrew/cssgrid-ama/issues/24
+- Putting it inside a <div> then applying the `position:fixed` to that <div>
+	will do the trick
+	TODO: Why exactly?
