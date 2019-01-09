@@ -21,21 +21,25 @@ html, body {
     margin-left: 2%;
     margin-top: 5%;
     padding: 10px;
+    align-self: center;
 }
 
 .main-nav {
     grid-area: nav;
     background-color: darkgray;
+    align-self: flex-end;
 }
 
 .page-header {
     grid-area: pageHead;
     background-color: lightslategrey;
+    align-self: flex-start;
 }
 
 .container{
     grid-area: content;
     background-color: aquamarine;
+    align-self: stretch;
 }
 /*
 .container>div {
@@ -47,7 +51,7 @@ html, body {
 .main-footer {
     grid-area: footer;
     background-color: cadetblue;
-   
+    align-self: center;
 }
 
 .wrapper {
@@ -112,6 +116,10 @@ footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+}
+
+footer ul li {
+    display: block;
 }
 
 #leftBlank {
