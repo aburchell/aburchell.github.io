@@ -80,8 +80,6 @@ body {
     }
     
     html, body {
-/*        position: absolute;*/
-/*        overflow: hidden;*/
         margin: 0;
     }
     
@@ -103,16 +101,6 @@ body {
         border: 10px solid black;
     }
     
-    .container>div {
-        max-height: 75%;
-    }
-    
-    /*
-    .container>div {
-        overflow: scroll;
-        background-color: crimson;
-    }
-    */
 }
 
 
