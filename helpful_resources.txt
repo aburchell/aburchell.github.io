@@ -1,0 +1,14 @@
+RESOUCES AND THINGS I'VE LEARNED
+
+About the difference between <html> and <body>
+http://phrogz.net/css/htmlvsbody.html
+- html is defined by the size of the window
+- body holds all the content, even past the limits of <html>
+- body is `position:static` by default, so the sizing of it's children 
+	elements will be sized relative to <body>'s parent element, <html>.
+	If you want the children elems of <body> to work relative to <body>,
+	set `body {position:relative}`
+- <html> has `overflow:auto` by default, which is why scollbars automatically
+	appear to show content in <body> that does not fit within the view
+	of the open window
+
