@@ -101,8 +101,12 @@ body {
         overflow: scroll;
         bottom: 50px;
         border: 10px solid black;
+    }
+    
+    .container>div {
         max-height: 75%;
     }
+    
     /*
     .container>div {
         overflow: scroll;
