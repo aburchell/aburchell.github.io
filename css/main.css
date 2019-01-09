@@ -74,7 +74,7 @@ body {
         grid-template-rows: 50px 100px 150px auto 50px;
         grid-template-areas: 
             "header . . ."
-            "nav pageHead . ."
+            "nav pageHead pageHead ."
             "nav content content ."
             ". content content ."
             "footer footer footer footer"
