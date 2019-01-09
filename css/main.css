@@ -90,7 +90,7 @@ body {
     }
     
     .main-nav {
-        position: sticky;
+        position: fixed;
     }
     
     .page-header {
