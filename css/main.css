@@ -53,6 +53,9 @@ html, body {
     grid-area: footer;
     background-color: cadetblue;
     text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 .wrapper {
@@ -103,11 +106,6 @@ html, body {
     .container {
         overflow: scroll;
         bottom: 50px;
-    }
-    .main-footer {
-        position: fixed;
-        bottom: 0;
-        width: 100%;
     }
 }
 
