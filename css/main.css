@@ -95,7 +95,6 @@ body {
     .container {
         overflow: scroll;
         bottom: 50px;
-        border: 10px solid black;
     }
     
 }
