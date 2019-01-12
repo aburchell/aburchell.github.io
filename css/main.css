@@ -46,6 +46,7 @@ body {
     position: fixed;
     bottom: 0;
     width: 100%;
+    background-color: cadetblue;
 }
 
 .wrapper {
@@ -88,7 +89,7 @@ body {
     }
     
     .page-header>div {
-       position: fixed;
+/*       position: fixed;*/
        width: 100%;
     }
     
