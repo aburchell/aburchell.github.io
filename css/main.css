@@ -13,6 +13,7 @@ body {
 body {
     height: 100%;
     width: 100%;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 /*    position: relative;*/
 }
 
@@ -117,10 +118,10 @@ footer ul li {
   font-size: 100%;
   font-weight: bold;
   white-space: nowrap;
+  text-align: center;
 }
 
 nav ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     display:block;
     list-style-type: none;
     line-height: 5em;
@@ -131,4 +132,24 @@ nav ul li {
     font-size: 1.5em;
     font-family: 'Helvetica';
     color: black;
+}
+
+a:link {
+  text-decoration: none;
+  color: #65a575;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #396043;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #132016;
+}
+
+a:active {
+  text-decoration: none;
+  color: black;
 }
