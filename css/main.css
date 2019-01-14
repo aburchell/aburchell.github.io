@@ -86,12 +86,13 @@ body {
     }
     
     .main-nav>div {
+        border-left: 1rem solid #396043;
+        background-color: #eff6f1;       
         position: fixed;
     }
     
     .main-nav {
-        border-left: 1rem solid #396043;
-        background-color: #eff6f1;
+
     }
     
     .page-header>div {
