@@ -90,7 +90,8 @@ body {
     }
     
     .main-nav {
-        border-right: 1rem solid #eff6f1;
+        border-left: 1rem solid #396043;
+        background-color: #eff6f1;
     }
     
     .page-header>div {
