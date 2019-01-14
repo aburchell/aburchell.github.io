@@ -87,11 +87,10 @@ body {
     
     .main-nav>div {
         position: fixed;
-        background-color: #eff6f1;
     }
     
     .main-nav {
-        
+        border-right: 1rem solid #eff6f1;
     }
     
     .page-header>div {
