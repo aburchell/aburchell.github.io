@@ -73,7 +73,7 @@ body {
             "header . . ."
             "nav pageHead pageHead ."
             "nav content content ."
-            ". content content ."
+            "nav content content ."
             "footer footer footer footer"
     }
     
@@ -87,10 +87,11 @@ body {
     
     .main-nav>div {
         position: fixed;
+        background-color: #eff6f1;
     }
     
     .main-nav {
-        background-color: #eff6f1;
+        
     }
     
     .page-header>div {
