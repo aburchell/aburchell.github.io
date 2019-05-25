@@ -85,10 +85,12 @@ body {
         margin-left: 15%;
     
     .main-header>div {
+        margin-left: 0%;
         position: fixed;
     }
     
     .main-nav>div {
+        margin-left: 0%;
         border-left: 1rem solid #396043;
         /*background-color: #eff6f1;*/
         position: fixed;
@@ -99,6 +101,7 @@ body {
     }
     
     .page-header>div {
+        margin-left: 0%;
 /*       position: fixed;*/
        width: 100%;
     }
@@ -120,6 +123,7 @@ footer ul {
 }
 
 footer ul li {
+    margin-left: 0%;
     display: block;
 }
 
