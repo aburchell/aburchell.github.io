@@ -39,7 +39,7 @@ body {
 
 .container{
     grid-area: content;
-    overflow: scroll;
+    overflow: auto;
 /*    align-self: stretch;*/
 }
 
@@ -110,7 +110,7 @@ body {
     }
     
     .container {
-        overflow: scroll;
+        overflow: auto;
         /*bottom: 50px;*/
         margin-left: 25%;
         align-content: center;
