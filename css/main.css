@@ -80,6 +80,9 @@ body {
     html, body {
         margin: 0;
     }
+
+    body {
+        margin-left: 15%;
     
     .main-header>div {
         position: fixed;
