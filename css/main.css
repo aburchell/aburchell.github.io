@@ -102,13 +102,15 @@ body {
     }
     
     .page-header>div {
-        position: absolute;
+        position: fixed;
+        margin-left: 25%;
         width: 100%;
     }
     
     .container {
-        /*overflow: scroll;*/
-        bottom: 50px;
+        overflow: scroll;
+        /*bottom: 50px;*/
+        margin-left: 25%;
         align-content: center;
     }
     
