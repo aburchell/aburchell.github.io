@@ -40,6 +40,9 @@ body {
 .container{
     grid-area: content;
     overflow: auto;
+    max-height: 50%;
+    margin-top: 15%;
+    margin-bottom: 15%;
 /*    align-self: stretch;*/
 }
 
