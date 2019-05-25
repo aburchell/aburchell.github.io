@@ -93,7 +93,8 @@ body {
     .main-nav>div {
         border-left: 1rem solid #396043;
         /*background-color: #eff6f1;*/
-        position: absolute;
+        position: fixed;
+        margin-right: 15%;
     }
     
     .main-nav {
@@ -107,7 +108,6 @@ body {
     
     .container {
         /*overflow: scroll;*/
-        margin-left: 15%;
         bottom: 50px;
         align-content: center;
     }
