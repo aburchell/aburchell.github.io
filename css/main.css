@@ -67,11 +67,22 @@ body {
     .wrapper {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr;
-        grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-        grid-template-areas: "header . . nav" ". pageHead . nav" ". content content ." ". content content ." ". content content ." ". content content ." "footer . . .";
+        grid-template-rows: 1fr 0.6fr 1.4fr 1fr 1fr 1fr 1fr;
+        grid-template-areas: "header . . nav" ". pageHead . ." ". content content ." ". content content ." ". content content ." ". content content ." "footer footer footer footer";
+        overflow: hidden;
     }
-}
 
+    .main-header { grid-area: header; }
+
+    .page-header { grid-area: pageHead; }
+
+    .content { grid-area: content; 
+               overflow-y: scroll; }
+
+    .main-nav { grid-area: nav; }
+
+    .main-footer { grid-area: footer; }
+}
 
 footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
