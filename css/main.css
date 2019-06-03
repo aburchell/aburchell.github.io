@@ -10,37 +10,31 @@ body {
 */
 /*https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout*/
 
+/*
 body {
     height: 100%;
     width: 100%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     overflow: hidden;
-/*    position: relative;*/
 }
 
 .main-header {
     grid-area: header;
-/*    margin-left: 2%;*/
-/*    margin-top: 5%;*/
     padding: 10px;
-/*    align-self: center;*/
 }
 
 .main-nav {
     grid-area: nav;
-/*    align-self: flex-end;*/
 }
 
 .page-header {
     grid-area: pageHead;
     width: 100%;
-/*    align-self: flex-start;*/
 }
 
 .container{
     grid-area: content;
     overflow: auto;
-/*    align-self: stretch;*/
 }
 
 .main-footer {
@@ -49,8 +43,8 @@ body {
     position: fixed;
     bottom: 0;
     width: 100%;
-    /* background-color: #65a575;*/
 }
+*/
 
 .wrapper {
     display: grid;
