@@ -63,7 +63,8 @@ body {
     .wrapper {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr;
-        grid-template-rows: 1fr 0.5fr 3.5fr 1fr;
+        /*grid-template-rows: 1fr 0.5fr 3.5fr 1fr;*/
+        grid-template-rows: 1fr 1fr 1.5fr 0.5fr;
         grid-template-areas: "header . . nav" ". pageHead . ." ". content content ." "footer footer footer footer";
         /*overflow: hidden;*/
     }
