@@ -109,6 +109,8 @@ body {
         grid-row: 4;
         grid-column: 1/4;
         z-index: 2;
+        bottom:0;
+        position: fixed;
     }   
 }
 
