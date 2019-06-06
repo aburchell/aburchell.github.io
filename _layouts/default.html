@@ -1,49 +1,50 @@
 <!DOCTYPE html>
-	<html>
+<html lang="en">
     <head>
+        <meta charset="utf-8">
         <title>{{ page.title }}</title>
         <!-- link to main stylesheet -->
         <link rel="stylesheet" type="text/css" href="/css/main.css">
     </head>
 		
-    <div class="wrapper">
-		<body>
-			<nav class="main-nav">
-                <div> 
-                    <ul>
-                        <li><a href="/">Home</a></li>
-                        <li><a href="/about">About</a></li>
-                        <!-- <li><a href="/cv">CV</a></li> -->
-                        <li><a href="/blog">Works</a></li>
-                        <li><a href="/wordjournal">Word Journal</a></li>
-                    </ul>
-	    	    </div>
-			</nav>
-            
-            <h1 class="page-header">
-                <!--<div>-->
-                    {{ page.title }}
-                <!--</div>-->
-            </h1>
-            
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-            
-            <header class="main-header" id="myName">
-                <div>
-                    AUGUSTIN<br />BURCHELL<br /> WORK IN PROGRESS
-                </div>
-	    	</header>      
-	    	
-			<footer class="main-footer">
-	    		<ul>
-	        		<li>augustin.burchell@gmail.com</li>
-	        		<li><a href="https://github.com/aburchell">github.com/aburchell</a></li>
-				</ul>
-			</footer>
-		</body>
-    </div>
-	</html>
+    <!-- <div class="wrapper"> -->
+    <body>
+        <nav class="main-nav">
+            <! -- <div> -->
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/about">About</a></li>
+                <!-- <li><a href="/cv">CV</a></li> -->
+                <li><a href="/blog">Works</a></li>
+                <li><a href="/wordjournal">Word Journal</a></li>
+            </ul>
+            <!-- </div> -->
+        </nav>
+        
+        <h1 class="page-header">
+            <!--<div>-->
+                {{ page.title }}
+            <!--</div>-->
+        </h1>
+        
+        <div class="container">
+        
+        {{ content }}
+        
+        </div><!-- /.container -->
+        
+        <header class="main-header" id="myName">
+            <div>
+                AUGUSTIN<br />BURCHELL<br /> WORK IN PROGRESS
+            </div>
+        </header>      
+        
+        <footer class="main-footer">
+            <ul>
+                <li>augustin.burchell@gmail.com</li>
+                <li><a href="https://github.com/aburchell">github.com/aburchell</a></li>
+            </ul>
+        </footer>
+    </body>
+    <!-- </div> -->
+</html>
