@@ -114,6 +114,10 @@ nav ul li {
     color: #7B1A80;
 }
 
+nav a {
+    color: #7B1A80;
+}
+
 a:link {
   text-decoration: none;
   color: #65a575;
