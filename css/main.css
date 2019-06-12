@@ -8,7 +8,7 @@ html {
 body {
     height: 100%;
     width: 100%;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Sans-Serif';
     background-color: #D1C7B1;
 }
 
@@ -23,6 +23,13 @@ body {
         "footer";
 }
 .prev, .next,.text {font-size: 11px}
+
+.main-header {
+    font-family: 'Dosis';
+    font-style: extra-bold;
+    font-size: 2.5em;
+    text-align: justify;
+}
 
 @media (min-width: 500px) {
     .wrapper {
