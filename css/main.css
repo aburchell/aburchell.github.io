@@ -111,21 +111,20 @@ nav ul li {
     font-size: 2em;
     font-weight: bold;
     font-family: 'Helvetica';
-    color: #7B1A80;
 }
 
 nav a {
-    color: #7B1A80;
+    color: #773178;
 }
 
 a:link {
   text-decoration: none;
-  color: #65a575;
+  color: #773178;
 }
 
 a:visited {
   text-decoration: none;
-  color: #396043;
+  color: #51174E;
 }
 
 a:hover {
