@@ -40,6 +40,7 @@ body {
         z-index: -2;
         grid-gap: 10px;
         position: fixed;
+        overflow: auto;
     }
 
     .main-header { 
@@ -72,7 +73,6 @@ body {
         grid-row: 2/-1;
         grid-column: 2/4;
         z-index: 0;
-        overflow-y: auto;
     }
 
 
