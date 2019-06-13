@@ -10,7 +10,6 @@ body {
     width: 100%;
     font-family:'Sans-Serif';
     background-color: #D1C7B1;
-    /*position: fixed;*/
 }
 
 .wrapper {
@@ -39,7 +38,6 @@ body {
         justify-content: center;
         z-index: -2;
         grid-gap: 10px;
-        position: fixed;
         overflow: scroll;
     }
 
