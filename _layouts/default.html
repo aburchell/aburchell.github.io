@@ -1,50 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <title>{{ page.title }}</title>
-        <!-- link to main stylesheet -->
-        <link rel="stylesheet" type="text/css" href="/css/main.css">
-        <link href="https://fonts.googleapis.com/css?family=Dosis&display=swap" rel="stylesheet">
-    </head>
-		
-    <!-- <div class="wrapper"> -->
-    <body class="wrapper">
-        <nav class="main-nav">
-            <ul>
-                <li><a href="https://aburchell.github.io">home</a></li>
-                <li><a href="/about">about</a></li>
-                <!-- <li><a href="/cv">CV</a></li> -->
-                <li><a href="/works">works</a></li>
-                <li><a href="/wordjournal">words</a></li>
-                <li><a href="/cards">cards</a></li>
-            </ul>
-        </nav>
-        
-        <h1 class="page-header">
-            <!--<div>-->
-                {{ page.title }}
-            <!--</div>-->
-        </h1>
-        
-        <div class="container">
-        
-        {{ content }}
-        
-        </div><!-- /.container -->
-        
-        <header class="main-header" id="myName">
-            <div>
-                AUGUSTIN<br />BURCHELL
-            </div>
-        </header>      
-        
-        <footer class="main-footer">
-            <ul>
-                <li>augustin.burchell@gmail.com</li>
-                <li><a href="https://github.com/aburchell">github.com/aburchell</a></li>
-            </ul>
-        </footer>
-    </body>
-    <!-- </div> -->
-</html>
+---
+layout: default
+---
+
+<h1 class="page-header">
+    {{ page.title }}
+</h1>
