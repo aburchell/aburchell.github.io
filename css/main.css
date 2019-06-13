@@ -54,7 +54,7 @@ body {
         grid-row: 2/4;
         grid-column: 4;
         z-index: 2;
-        position: sticky;
+        position: fixed;
 
     }
 
@@ -63,7 +63,7 @@ body {
         grid-row: 3;
         grid-column: 1;
         z-index: 1;
-        position: sticky;
+        position: fixed;
         /*top: 0px;*/
         align: right;
         font-family: 'Dosis';
@@ -72,7 +72,7 @@ body {
 
     .container { 
         /*grid-area: content; */
-        grid-row: 3/-1;
+        grid-row: 2/-1;
         grid-column: 2/4;
         z-index: 0;
         overflow-y: auto;
