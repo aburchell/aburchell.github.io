@@ -3,13 +3,14 @@
 html {
     height: 100%;
     width: 100%;
-    overflow: hidden;
+    /*overflow: hidden;*/
 }
 body {
     height: 100%;
     width: 100%;
     font-family:'Sans-Serif';
     background-color: #D1C7B1;
+    /*position: fixed;*/
 }
 
 .wrapper {
@@ -33,11 +34,8 @@ body {
 @media (min-width: 500px) {
     .wrapper {
         display: grid;
-        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-        /*grid-template-rows: 1fr 0.5fr 3.5fr 1fr;*/
-        grid-template-rows: 10% 10% auto 10%;
-        /*grid-template-areas: "header . . nav" ". pageHead . ." ". content content ." "footer footer footer footer";*/
-        /*overflow: hidden;*/
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+        grid-template-rows: repeat(6, 1fr);
         justify-content: center;
         z-index: -2;
         grid-gap: 10px;
@@ -53,7 +51,7 @@ body {
     
     .main-nav { 
         /*grid-area: nav;*/
-        grid-row: 1/-1;
+        grid-row: 2/4;
         grid-column: 4;
         z-index: 2;
         position: sticky;
@@ -67,7 +65,7 @@ body {
         z-index: 1;
         position: sticky;
         /*top: 0px;*/
-        align: end;
+        align: right;
         font-family: 'Dosis';
         font-size: 1.75em;
     }
