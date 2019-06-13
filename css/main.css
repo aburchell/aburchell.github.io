@@ -40,7 +40,7 @@ body {
         z-index: -2;
         grid-gap: 10px;
         position: fixed;
-        overflow: auto;
+        overflow: scroll;
     }
 
     .main-header { 
@@ -70,7 +70,7 @@ body {
 
     .container { 
         /*grid-area: content; */
-        grid-row: 2/-1;
+        grid-row: 2/6;
         grid-column: 2/4;
         z-index: 0;
     }
@@ -79,7 +79,7 @@ body {
     .main-footer { 
         /* grid-area: footer; */
         grid-row: 4;
-        grid-column: 4;
+        grid-column: 5;
         z-index: 2;
         bottom:0;
     }   
