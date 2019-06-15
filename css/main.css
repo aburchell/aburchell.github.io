@@ -30,51 +30,7 @@ body {
     font-size: 2.5em;
     text-align: justify;
 }
-
-@media (min-width: 500px) {
-    .wrapper {
-        display: grid;
-        grid-template-columns: repeat(6, 1fr);
-        grid-template-rows: repeat(6, 1fr);
-        justify-content: center;
-        z-index: -2;
-        grid-gap: 10px;
-        overflow: scroll;
-    }
-
-    .main-header {
-        grid-row: 1;
-        grid-column: 1;
-        z-index: 2;
-    }
-
-    .main-nav {
-        grid-row: 2/4;
-        grid-column: -1;
-        z-index: 2;
-
-    }
-
-    .page-header {
-        /*grid-area: pageHead;*/
-        grid-row: 3;
-        grid-column: 1;
-        z-index: 1;
-        align: right;
-        font-family: 'Dosis';
-        font-size: 1.75em;
-    }
-
-    .container {
-        /*grid-area: content; */
-        grid-row: 2/6;
-        grid-column: 2/5;
-        z-index: 0;
-    }
-
-    .main-footer {
-        grid-row: -1;
-        grid-column: 1;
+n: 1;
         z-index: 2;
         bottom:100%;
         text-align: justify;
