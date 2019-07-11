@@ -8,9 +8,10 @@ html {
 body {
     height: 100%;
     width: 100%;
+    max-height: 100%;
     font-family:'Dosis', 'Sans-Serif';
-    background-color: #D1C7B1;
     overflow-x: hidden;
+    /* background-color: #D1C7B1; */
 }
 
 .wrapper {
@@ -27,7 +28,7 @@ body {
 
 .main-header {
     font-family: 'Dosis';
-    font-size: 2.5em;
+    font-size: 4em;
     text-align: justify;
     color:#ffcc33;
 }
@@ -52,7 +53,7 @@ body {
 
     .main-nav {
         grid-row: 2/4;
-        grid-column: -1;
+        grid-column: 4/6;
         z-index: 2;
 
     }
@@ -72,6 +73,7 @@ body {
         grid-row: 2/6;
         grid-column: 2/5;
         z-index: 0;
+        padding: 20px;
     }
 
     .main-footer{
@@ -82,9 +84,9 @@ body {
       text-align: justify;
     }
 
-    .bottom-junk div{
-      position:fixed;
-    }
+    /* .bottom-junk div{ */
+    /*   position:fixed; */
+    /* } */
     /*Add a classed div around the footer, then inside that make a div within*/
     /*which the footer will sit*/
 }
