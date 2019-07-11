@@ -71,7 +71,7 @@ body {
     .container {
         /*grid-area: content; */
         grid-row: 2/6;
-        grid-column: 2/5;
+        grid-column: 2/4;
         z-index: 0;
         padding: 20px;
     }
@@ -81,7 +81,6 @@ body {
       grid-column: 1;
       z-index: 2;
       bottom:100%;
-      text-align: justify;
     }
 
     /* .bottom-junk div{ */
