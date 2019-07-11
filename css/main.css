@@ -10,7 +10,14 @@ body {
     width: 100%;
     max-height: 100%;
     overflow-x: hidden;
+    font-family:'Dosis', 'Sans-Serif';
     /* background-color: #D1C7B1; */
+}
+
+.container {
+  font-family: 'Serif';
+  line-height: 1.3;
+  padding: 20px;
 }
 
 .wrapper {
@@ -45,14 +52,12 @@ body {
     }
 
     .main-header {
-        font-family:'Dosis', 'Sans-Serif';
         grid-row: 1;
         grid-column: 1;
         z-index: 2;
     }
 
     .main-nav {
-        font-family:'Dosis', 'Sans-Serif';
         grid-row: 2/4;
         grid-column: 4/6;
         z-index: 2;
@@ -61,7 +66,6 @@ body {
 
     .page-header {
         /*grid-area: pageHead;*/
-        font-family:'Dosis', 'Sans-Serif';
         grid-row: 3;
         grid-column: 1;
         z-index: 1;
@@ -75,7 +79,6 @@ body {
         grid-row: 2/6;
         grid-column: 2/4;
         z-index: 0;
-        padding: 20px;
     }
 
     .main-footer{
