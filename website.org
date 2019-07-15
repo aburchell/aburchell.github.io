@@ -1,0 +1,15 @@
+#+TITLE: website
+
+
+* Pick a good color scheme
+
+* Fix card page
+
+* Make sure fully responsive
+
+* Make accessible
+
+* Make layout nice
+** Move name farther left
+** Change footer position
+** Move nav and left edge of content farther right
