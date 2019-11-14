@@ -55,7 +55,7 @@ body {
         grid-row: 1;
         grid-column: -1;
         z-index: 2;
-        padding: 1em;
+        padding: 0.5em;
     }
 
     .main-nav {
@@ -81,13 +81,14 @@ body {
         grid-row: 2/6;
         grid-column: 3/6;
         z-index: 0;
+        padding: 1em;
     }
 
     /* .main-footer{ */
     .bottom-junk{
       font-family:'Dosis', 'Sans-Serif';
       grid-row: -1;
-      grid-column: 1;
+      grid-column: -1;
       z-index: 2;
       /* bottom:100%; */
     }
