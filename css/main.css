@@ -83,7 +83,8 @@ body {
         z-index: 0;
     }
 
-    .main-footer{
+    /* .main-footer{ */
+    .bottom-junk{
       font-family:'Dosis', 'Sans-Serif';
       grid-row: -1;
       grid-column: 1;
