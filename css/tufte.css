@@ -469,8 +469,6 @@ label.margin-toggle:not(.sidenote-number) {
 }
 
 /* Custom (aburchell) css */
-.main-nav > ul {
+ul {
     list-style-type: none;
 }
-
-
