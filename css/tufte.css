@@ -472,3 +472,9 @@ label.margin-toggle:not(.sidenote-number) {
 ul {
     list-style-type: none;
 }
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
