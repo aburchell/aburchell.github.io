@@ -467,3 +467,10 @@ label.margin-toggle:not(.sidenote-number) {
         width: 100%;
     } 
 }
+
+/* Custom (aburchell) css */
+.main-nav > ul {
+    list-style-type: none;
+}
+
+
