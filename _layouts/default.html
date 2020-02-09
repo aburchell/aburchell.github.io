@@ -2,14 +2,21 @@
 <html lang="en">
     {% include header.html %}
     <body class="wrapper">
-        <h1 class="page-header">
-            {{ page.title }}
-        </h1>
-        {% include navigation.html %}
-        <div class="container">
-        {{ content }}
-        </div>
-        {% include myName.html %} 
-        {% include footer.html %}
+        <article>
+            <h1 class="page-header">
+                {{ page.title }}
+            </h1>
+            <p class="subtitle">
+                {% include navigation.html %}
+            </p>
+
+            <div class="container">
+            {{ content }}
+            </div>
+
+            <!-- {% include myName.html %} --> 
+
+            {% include footer.html %}
+        </article>
     </body>
 </html>
