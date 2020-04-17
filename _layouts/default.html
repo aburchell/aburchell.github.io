@@ -4,19 +4,23 @@
     <body class="wrapper">
         <article>
             <h1 class="page-header">
-                {{ page.title }}
+                Augustin Burchell
             </h1>
             <p class="subtitle">
-                {% include navigation.html %}
+                {{ page.title }}
             </p>
+            <section>
+                {% include navigation.html %}
+            </section>
 
-            <div class="container">
+            <!-- <div class="container"> -->
+            <section>
             {{ content }}
-            </div>
+            </section>
 
-            <!-- {% include myName.html %} --> 
-
+            <section>
             {% include footer.html %}
+            </section>
         </article>
     </body>
 </html>
