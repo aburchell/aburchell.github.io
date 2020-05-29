@@ -4,13 +4,11 @@ title: "Expert systems are fascinating"
 date: 2020-5-29
 categories: works
 ---
-</section>
-
-<section>
+<p>
 I find expert systems fascinating, and I would like to learn more about them.
-</section>
+</p>
 
-<section>
+<p>
 I work part-time as a research assistant with the lab of
 <a href="http://www.psych.nyu.edu/pelli/">Denis Pelli</a> of the NYU Psychology
 Department. Broadly speaking, we study vision; narrowly speaking, I study
@@ -27,17 +25,17 @@ revealed? At the end of this process of conjecturing and following the conjectur
 to its logical ends, are we left with any impossibilities? Does this possible 3
 here -- which could only lead us to a 5 here and a 7 there -- fly in the face
 of the 6, 2, and 1 we were already sure about?
-</section>
+</p>
 
-<section>
+<p>
 It is this process of grabbing hold of this or that branch, shaking the tree,
 and examining whether something favorable falls out which leads me to the 
 question (a question which seems only proper given my current 
 recently-graduated-with-a-BA-in-Computer-Science circumstances): couldn't a 
 computer make my life easier here?
-</section>
+</p>
 
-<section>
+<p>
 My earliest thoughts were vague, but tantalizing. A graph seems apt; 
 directed must be the way to go (so to speak). Concepts ought to be nodes and
 their relationships defined by their connections. These concepts could then
@@ -51,9 +49,9 @@ what other questions about efficiency does that illuminate? Of what previous
 studies should this new finding make us wary and prompt us to try replicating?
 I had walked my way into what every student of computation dreams for: an 
 opportunity to create a system which would allow me to become even lazier.
-</section>
+</p>
 
-<section>
+<p>
 My current thoughts are still early, but with more names to which they can be
 affixed. <a href="https://en.wikipedia.org/wiki/Expert_system">Expert systems</a>,
 it would appear, are where I should start my hunt. If ever I were to claim that
@@ -64,9 +62,9 @@ domains. It is not often that I have felt more reassured than while reading
 about truth maintenance and fuzzy logic. A possibility of novelty replaced
 with a more tractable sense of conceptual kinship, it felt good to know that
 my desires were at worst intelligible, and at best already implemented.
-</section>
+</p>
 
-<section>
+<p>
 This is a declaration not of a solution, but of an intent to search for one.
 Along this search I intend to learn more about expert systems and knowledge 
 graphs, of logic (first and second order, fuzzy or otherwise), and about what
@@ -78,6 +76,4 @@ I make something interesting, or get lucky enough to find that someone else
 has already made my interesting thing for me, I hope to game the system 
 enough to get within perhaps a few degrees of becoming an expert on 
 <em>expert systems</em>. 
-</section>
-
-<section>
+</p>
