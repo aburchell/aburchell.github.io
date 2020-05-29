@@ -4,11 +4,11 @@ title: "Expert systems are fascinating"
 date: 2020-5-29
 categories: works
 ---
-<section/>
+</section>
 
 <section>
 I find expert systems fascinating, and I would like to learn more about them.
-<section/>
+</section>
 
 <section>
 I work part-time as a research assistant with the lab of
@@ -27,7 +27,7 @@ revealed? At the end of this process of conjecturing and following the conjectur
 to its logical ends, are we left with any impossibilities? Does this possible 3
 here -- which could only lead us to a 5 here and a 7 there -- fly in the face
 of the 6, 2, and 1 we were already sure about?
-<section/>
+</section>
 
 <section>
 It is this process of grabbing hold of this or that branch, shaking the tree,
@@ -35,7 +35,7 @@ and examining whether something favorable falls out which leads me to the
 question (a question which seems only proper given my current 
 recently-graduated-with-a-BA-in-Computer-Science circumstances): couldn't a 
 computer make my life easier here?
-<section/>
+</section>
 
 <section>
 My earliest thoughts were vague, but tantalizing. A graph seems apt; 
@@ -51,7 +51,7 @@ what other questions about efficiency does that illuminate? Of what previous
 studies should this new finding make us wary and prompt us to try replicating?
 I had walked my way into what every student of computation dreams for: an 
 opportunity to create a system which would allow me to become even lazier.
-<section/>
+</section>
 
 <section>
 My current thoughts are still early, but with more names to which they can be
@@ -64,7 +64,7 @@ domains. It is not often that I have felt more reassured than while reading
 about truth maintenance and fuzzy logic. A possibility of novelty replaced
 with a more tractable sense of conceptual kinship, it felt good to know that
 my desires were at worst intelligible, and at best already implemented.
-<section/>
+</section>
 
 <section>
 This is a declaration not of a solution, but of an intent to search for one.
@@ -78,6 +78,6 @@ I make something interesting, or get lucky enough to find that someone else
 has already made my interesting thing for me, I hope to game the system 
 enough to get within perhaps a few degrees of becoming an expert on 
 <em>expert systems</em>. 
-<section/>
+</section>
 
 <section>

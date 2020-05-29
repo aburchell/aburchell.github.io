@@ -4,12 +4,12 @@ title: "Trying on a new temporality"
 date: 2020-4-22
 categories: works
 ---
-<section/>
+</section>
 
 <section>
 How might we think about life and move through the world differently if we had
 a different relationship with time? 
-<section/>
+</section>
 
 <section>
 We experience time linearly, that before this, now until then like before. We 
@@ -20,7 +20,7 @@ present. We consider a person wealthy if they have lots of money, but only if
 they have that lots of money right now. If I acquired but then lost a modest
 fortune, I'm not even given the decency of being rich then, but instead formerly
 rich now. 
-<section/>
+</section>
 
 <section>
 If time laid out before me -- or wrapped around me -- spatially, would I have 
@@ -37,6 +37,6 @@ taking any surplus cash home to the present moment but instead investing.
 Investing in what? In my future of course! After all I'm sharing it with my
 past and present presently. Maybe this way I'd keep my penniless portion
 lean, a smaller weight of my pooled time.
-<section/>
+</section>
 
 <section>
