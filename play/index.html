@@ -1,0 +1,10 @@
+---
+layout: default
+title: works
+---
+	<ul class="objects-of-play">
+
+	{% for post in site.categories.play %}
+	<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	{% endfor %}
+	</ul>
