@@ -4,8 +4,6 @@ title: "Thinking again about thinking about time"
 date: 2020-7-08
 categories: works
 ---
-</section>
-
 <section>
 Is it better to maximize for now, or minimize our lowest future point.
 </section>
